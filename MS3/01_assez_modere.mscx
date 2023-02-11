@@ -3418,7 +3418,7 @@ toujurs</i></text>
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(b6^2)</name>
+            <name>V(b6^2)}</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
@@ -3447,7 +3447,7 @@ toujurs</i></text>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>i7</name>
+            <name>i7{</name>
             </Harmony>
           <Chord>
             <durationType>eighth</durationType>
