@@ -8007,7 +8007,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>{</name>
+            <name>{ii6(119)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
