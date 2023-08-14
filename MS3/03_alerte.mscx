@@ -6363,6 +6363,13 @@
             <harmonyType>1</harmonyType>
             <name>V(64)</name>
             </Harmony>
+          <location>
+            <fractions>1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           </voice>
         <voice>
           <location>
@@ -6409,7 +6416,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I</name>
+            <name>I{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
@@ -7188,6 +7195,15 @@
             <subtype>double</subtype>
             </BarLine>
           </voice>
+        <voice>
+          <location>
+            <fractions>7/8</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
+          </voice>
         </Measure>
       <Measure>
         <voice>
@@ -7197,7 +7213,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7(9)}{</name>
+            <name>ii7(9){</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -7274,6 +7290,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>measure</durationType>
@@ -7285,7 +7305,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM65</name>
+            <name>IVM65{</name>
             </Harmony>
           <Rest>
             <durationType>eighth</durationType>
@@ -7552,7 +7572,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii43/V</name>
+            <name>iii43/V}</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -7593,7 +7613,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7(9)}{</name>
+            <name>ii7(9){</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -7670,6 +7690,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Rest>
             <visible>0</visible>
             <durationType>measure</durationType>
@@ -7685,7 +7709,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IM7(9)</name>
+            <name>IM7(9){</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -7831,6 +7855,10 @@
         </Measure>
       <Measure>
         <voice>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            </Harmony>
           <Beam>
             <StemDirection>up</StemDirection>
             </Beam>
@@ -7881,7 +7909,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7(9)}{</name>
+            <name>ii7(9){</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
