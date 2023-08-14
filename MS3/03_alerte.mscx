@@ -9827,7 +9827,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>IVM2</name>
+            <name>IVM2}</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -9870,7 +9870,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(139)}{</name>
+            <name>ii(139){</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
