@@ -8254,7 +8254,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(96)</name>
+            <name>V7(96)|HC}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8316,7 +8316,7 @@
             </TimeSig>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>I|PAC}{</name>
+            <name>I{</name>
             </Harmony>
           <Chord>
             <durationType>quarter</durationType>
