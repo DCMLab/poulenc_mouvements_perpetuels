@@ -1497,11 +1497,13 @@
             <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
             <autoplace>0</autoplace>
-            <offset x="-2.8165" y="-5.22155"/>
+            <visible>0</visible>
+            <offset x="1.24683" y="-5.7859"/>
             <text><sym>metNote8thUp</sym> = <sym>metNote8thUp</sym></text>
             </Tempo>
           <StaffText>
-            <offset x="3.79736" y="-5.0437"/>
+            <visible>0</visible>
+            <offset x="7.52208" y="-5.60805"/>
             <text><font size="12"></font><b> précédente</b></text>
             </StaffText>
           <StaffText>
