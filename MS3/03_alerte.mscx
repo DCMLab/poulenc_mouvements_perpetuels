@@ -8742,7 +8742,7 @@
             </StaffText>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii(b9)|EC}{</name>
+            <name>iii(b9)|EC}</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -8772,6 +8772,10 @@
               <tpc>12</tpc>
               </Note>
             </Chord>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>{</name>
+            </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
             <durationType>eighth</durationType>
