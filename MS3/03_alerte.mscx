@@ -10208,7 +10208,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(6)</name>
+            <name>V(6)}</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -10266,7 +10266,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii2(b9)}{</name>
+            <name>iii2(b9){</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
