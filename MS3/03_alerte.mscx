@@ -3810,6 +3810,7 @@
           <Tempo>
             <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="1.14851" y="-6.12202"/>
             <text><font size="12"></font><b>a Tempo </b></text>
             </Tempo>
@@ -3819,8 +3820,9 @@
             </StaffText>
           <StaffText>
             <autoplace>0</autoplace>
+            <visible>0</visible>
             <offset x="9.02463" y="-5.8823"/>
-            <text><b><font size="12"></font>          précédente</b></text>
+            <text><b><font size="12"/>          précédente</b></text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
