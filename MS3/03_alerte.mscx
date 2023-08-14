@@ -225,6 +225,7 @@
           <Tempo>
             <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <offset x="0.415103" y="-3.38398"/>
             <text><font size="12"></font><b>Alerte </b></text>
             </Tempo>
@@ -258,6 +259,7 @@
           <Tempo>
             <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
+            <visible>0</visible>
             <text><b>(</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 138)</b></text>
             </Tempo>
           <Chord>
