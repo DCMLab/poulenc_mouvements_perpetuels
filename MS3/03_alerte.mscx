@@ -6495,7 +6495,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(964)</name>
+            <name>V7(+964)</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-3"/>
@@ -8643,7 +8643,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(964)</name>
+            <name>V7(+964)</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-3"/>
@@ -10287,7 +10287,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii2(b9){</name>
+            <name>ii(64+2){</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10321,7 +10321,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7(9)</name>
+            <name>ii7(+2)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -10349,7 +10349,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii2(b9)</name>
+            <name>ii(64+2){</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10412,7 +10412,7 @@
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6(b9)-V7(6)</name>
+            <name>V7(6)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -10446,7 +10446,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii7(9)</name>
+            <name>ii7(+2)</name>
             </Harmony>
           <Chord>
             <BeamMode>mid</BeamMode>
@@ -10474,7 +10474,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>iii6(b9)-V7(6)</name>
+            <name>V7(6)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -11110,7 +11110,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(96)|HC}</name>
+            <name>V7(96)-iii6(11b9)}</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
