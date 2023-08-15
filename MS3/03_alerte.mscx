@@ -6516,7 +6516,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V(64)</name>
+            <name>V(6)</name>
             </Harmony>
           <Rest>
             <offset x="0" y="-3"/>
