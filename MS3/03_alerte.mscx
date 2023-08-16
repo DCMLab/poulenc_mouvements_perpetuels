@@ -10349,7 +10349,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>ii(64+2){</name>
+            <name>ii(64+2)</name>
             </Harmony>
           <Beam>
             <StemDirection>down</StemDirection>
