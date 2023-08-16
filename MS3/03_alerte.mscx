@@ -11054,7 +11054,7 @@
               <subtype>articAccentStaccatoBelow</subtype>
               <anchor>4</anchor>
               <autoplace>0</autoplace>
-              <offset x="0.108736" y="0.135788"/>
+              <offset x="1.35031" y="0.135788"/>
               </Articulation>
             <StemDirection>up</StemDirection>
             <Note>
@@ -11110,7 +11110,7 @@
             </Chord>
           <Harmony>
             <harmonyType>1</harmonyType>
-            <name>V7(96)-iii6(11b9)}</name>
+            <name>V7(96)-iii6(11b9)</name>
             </Harmony>
           <Chord>
             <dots>1</dots>
@@ -11130,6 +11130,14 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <location>
+            <fractions>-1/2</fractions>
+            </location>
+          <Harmony>
+            <harmonyType>1</harmonyType>
+            <name>}</name>
+            <offset x="0.790092" y="10.1327"/>
+            </Harmony>
           </voice>
         </Measure>
       </Staff>
