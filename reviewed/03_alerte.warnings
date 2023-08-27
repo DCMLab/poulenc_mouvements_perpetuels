@@ -1,5 +1,0 @@
-Warnings encountered during the last execution of ms3 review
-============================================================
-
-INCORRECT_VOLTA_MN_WARNING (2, 57) ms3.Parse.poulenc_mouvements_perpetuels.03_alerte --
-	MC 57, the 1st measure of a 2nd volta, should have MN 55, not MN 56.
