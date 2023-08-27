@@ -15,12 +15,14 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
     <metaTag name="composed_end">1919</metaTag>
     <metaTag name="composed_start">1919</metaTag>
     <metaTag name="composer">Francis Poulenc</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2022-10-23</metaTag>
+    <metaTag name="harmony_version">2.3.0</metaTag>
     <metaTag name="imslp">https://imslp.org/wiki/Mouvements_perp%C3%A9tuels%2C_FP_14_(Poulenc%2C_Francis)</metaTag>
     <metaTag name="lyricist"></metaTag>
     <metaTag name="movementNumber">1</metaTag>
