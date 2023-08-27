@@ -55,5 +55,5 @@ mc	mn	quarterbeats	quarterbeats_all_endings	duration_qb	keysig	timesig	act_dur	m
 54	53	285/2	285/2	4.0	0	4/4	1	0							55
 55	54	293/2	293/2	4.0	0	4/4	1	0				double			56, 57
 56	55		301/2	5.0	0	5/4	5/4	0	1				line	end	1
-57	56	301/2	311/2	5.0	0	5/4	5/4	0	2			double			58
-58	57	311/2	321/2	4.0	0	4/4	1	0						lastMeasure	-1
+57	55	301/2	311/2	5.0	0	5/4	5/4	0	2		1	double			58
+58	56	311/2	321/2	4.0	0	4/4	1	0						lastMeasure	-1
