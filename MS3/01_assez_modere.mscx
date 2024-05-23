@@ -7,6 +7,9 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
+      <pageWidth>8.5</pageWidth>
+      <pageHeight>11</pageHeight>
+      <pageEvenLeftMargin>0.822835</pageEvenLeftMargin>
       <enableVerticalSpread>1</enableVerticalSpread>
       <Spatium>1.75</Spatium>
       </Style>
