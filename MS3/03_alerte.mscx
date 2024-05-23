@@ -158,7 +158,6 @@
           <Tempo>
             <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
-            <size>10</size>
             <offset x="0.415103" y="-3.38398"/>
             <text><font size="12"></font><b>Alerte </b></text>
             </Tempo>
@@ -3744,7 +3743,6 @@
           <Tempo>
             <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
-            <size>10</size>
             <offset x="1.14851" y="-6.12202"/>
             <text><font size="12"></font><b>a Tempo </b></text>
             </Tempo>
@@ -4474,7 +4472,6 @@
           <Tempo>
             <tempo>1.8999999999999999</tempo>
             <followText>1</followText>
-            <size>10</size>
             <text><font size="12"></font><b>Un peu moins vite</b></text>
             </Tempo>
           <Dynamic>

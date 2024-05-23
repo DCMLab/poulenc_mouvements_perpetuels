@@ -139,7 +139,6 @@
           <Tempo>
             <tempo>1.5333333333333332</tempo>
             <followText>1</followText>
-            <family>FreeSerif</family>
             <text><b>Très modéré (</b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 92)</b></text>
             </Tempo>
           <StaffText>
@@ -327,8 +326,6 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>80</velocity>
-            <family>FreeSerif</family>
-            <size>12</size>
             <offset x="2.2" y="4"/>
             <text><i></i><font size="10"></font><font face="ScoreText"></font></text>
             </Dynamic>

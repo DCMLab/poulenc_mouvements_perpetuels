@@ -148,7 +148,6 @@
           <Tempo>
             <tempo>1.8999999999999999</tempo>
             <followText>1</followText>
-            <family>FreeSerif</family>
             <text><b>Assez modéré (</b><font face="ScoreText"/><b><font face="FreeSerif"/> = 114)</b></text>
             </Tempo>
           <Chord>
