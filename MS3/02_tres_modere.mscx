@@ -168,7 +168,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>15.8953</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -190,17 +190,22 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.5333300000000001</tempo>
+            <tempo>1.5333333333333332</tempo>
             <followText>1</followText>
             <family>FreeSerif</family>
             <text><b>Très modéré (</b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 92)</b></text>
             </Tempo>
           <StaffText>
-            <autoplace>0</autoplace>
             <placement>below</placement>
-            <offset x="-0.180937" y="4.83249"/>
+            <minDistance>-999</minDistance>
+            <offset x="0" y="4.80613"/>
             <text><i>indifférent</i></text>
             </StaffText>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <offset x="-0.236509" y="6.35768"/>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -231,11 +236,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <offset x="-1.28684" y="4.79601"/>
-            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -917,7 +917,7 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <offset x="1.915" y="3.88031"/>
+            <offset x="0.421307" y="4.25373"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -1226,6 +1226,11 @@
             <offset x="-0.119688" y="7.81436"/>
             <text><i>clair mais</i></text>
             </StaffText>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <offset x="10.2158" y="3.64944"/>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -1259,11 +1264,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <offset x="-1.33374" y="3.53615"/>
-            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
