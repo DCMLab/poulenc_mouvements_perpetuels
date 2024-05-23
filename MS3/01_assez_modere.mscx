@@ -15,10 +15,12 @@
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q191408</metaTag>
     <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1919</metaTag>
-    <metaTag name="composed_start">1919</metaTag>
+    <metaTag name="composed_end">1918</metaTag>
+    <metaTag name="composed_source">https://imslp.org/wiki/Mouvements_perp%C3%A9tuels,_FP_14a_(Poulenc,_Francis)</metaTag>
+    <metaTag name="composed_start">1918</metaTag>
     <metaTag name="composer">Francis Poulenc</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2022-10-23</metaTag>
@@ -38,7 +40,7 @@
     <metaTag name="viaf">https://viaf.org/viaf/178209998/</metaTag>
     <metaTag name="wikidata">https://www.wikidata.org/wiki/Q3326873</metaTag>
     <metaTag name="workNumber">FP 14</metaTag>
-    <metaTag name="workTitle">Mouvements perpétuels</metaTag>
+    <metaTag name="workTitle">Trois mouvements perpétuels</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -119,12 +121,15 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>3 Mouvements Perpètuels
-</text>
+          <text>Trois mouvements perpétuels, FP 14</text>
           </Text>
         <Text>
           <style>Subtitle</style>
-          <text>I.</text>
+          <text>1. Assez modéré</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Francis Poulenc</text>
           </Text>
         </VBox>
       <Measure>
