@@ -220,9 +220,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -333,9 +330,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o3 x="0.121563" y="-1.33719"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -1565,9 +1559,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="7.29376" y="0.850938"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -1797,9 +1788,6 @@
         </Measure>
       <Measure>
         <endRepeat>2</endRepeat>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -3410,12 +3398,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.598437" y="0.957499"/>
-                  <o4 x="-0.239375" y="1.19687"/>
-                  <autoplace>0</autoplace>
-                  <offset x="0.239375" y="-1.07719"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
