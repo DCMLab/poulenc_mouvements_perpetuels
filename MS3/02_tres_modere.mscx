@@ -7,17 +7,11 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.27</pageWidth>
-      <pageHeight>11.69</pageHeight>
-      <pagePrintableWidth>7.4826</pagePrintableWidth>
-      <pageEvenLeftMargin>0.393701</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.393701</pageOddLeftMargin>
-      <pageEvenTopMargin>0.393701</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.787402</pageEvenBottomMargin>
-      <pageOddTopMargin>0.393701</pageOddTopMargin>
-      <pageOddBottomMargin>0.787402</pageOddBottomMargin>
+      <pageWidth>8.5</pageWidth>
+      <pageHeight>11</pageHeight>
+      <pageEvenLeftMargin>0.822835</pageEvenLeftMargin>
       <enableVerticalSpread>1</enableVerticalSpread>
-      <Spatium>1.76389</Spatium>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
@@ -2119,8 +2113,8 @@
             </Dynamic>
           <Beam>
             <Fragment>
-              <y1>-2.40881</y1>
-              <y2>-3.9224</y2>
+              <y1>-2.42793</y1>
+              <y2>-3.95353</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -3890,7 +3884,7 @@
             <offset x="-2.55282" y="-5.10563"/>
             </Breath>
           <Chord>
-            <offset x="0.6" y="0"/>
+            <offset x="0.604762" y="0"/>
             <BeamMode>mid</BeamMode>
             <staffMove>-1</staffMove>
             <durationType>32nd</durationType>
