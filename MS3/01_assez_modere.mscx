@@ -118,7 +118,8 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>16.3317</height>
+        <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
           <text>Trois mouvements perpétuels, FP 14</text>
@@ -147,7 +148,9 @@
             </Dynamic>
           <Tempo>
             <tempo>1.8999999999999999</tempo>
-            <text>Assez modéré</text>
+            <followText>1</followText>
+            <family>FreeSerif</family>
+            <text><b>Assez modéré (</b><font face="ScoreText"/><b><font face="FreeSerif"/> = 114)</b></text>
             </Tempo>
           <Chord>
             <durationType>quarter</durationType>
@@ -186,13 +189,6 @@
               <tpc>11</tpc>
               </Note>
             </Chord>
-          <Tempo>
-            <tempo>1.8999999999999999</tempo>
-            <followText>1</followText>
-            <minDistance>0.116232</minDistance>
-            <offset x="-0.734991" y="-4.33114"/>
-            <text><b>(</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 114)</b></text>
-            </Tempo>
           <Chord>
             <durationType>quarter</durationType>
             <Note>
@@ -590,6 +586,13 @@
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <StaffText>
+            <style>Expression</style>
+            <placement>below</placement>
+            <minDistance>-999</minDistance>
+            <offset x="-0.0974113" y="2.91543"/>
+            <text>en dehors</text>
+            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -597,13 +600,6 @@
               <tpc>16</tpc>
               </Note>
             </Chord>
-          <StaffText>
-            <style>Expression</style>
-            <placement>below</placement>
-            <minDistance>-3.65345</minDistance>
-            <offset x="-1.49901" y="2.21479"/>
-            <text>en dehors</text>
-            </StaffText>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -1228,6 +1224,11 @@
             <text><i>incolore et
 toujurs</i></text>
             </StaffText>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <offset x="6.95133" y="4.41413"/>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Spanner type="Slur">
@@ -1254,11 +1255,6 @@ toujurs</i></text>
               <tpc>10</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <offset x="-0.515415" y="3.94746"/>
-            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -3547,7 +3543,6 @@ toujurs</i></text>
           </voice>
         </Measure>
       <Measure>
-        <vspacerFixed>20.7824</vspacerFixed>
         <voice>
           <Harmony>
             <harmonyType>1</harmonyType>

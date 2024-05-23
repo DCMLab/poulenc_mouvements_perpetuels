@@ -207,7 +207,7 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>3.5</height>
+        <height>14.8084</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
@@ -236,13 +236,16 @@
           <Tempo>
             <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
-            <visible>0</visible>
             <offset x="0.415103" y="-3.38398"/>
             <text><font size="12"></font><b>Alerte </b></text>
             </Tempo>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -270,7 +273,6 @@
           <Tempo>
             <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
-            <visible>0</visible>
             <text><b>(</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 138)</b></text>
             </Tempo>
           <Chord>
@@ -1508,12 +1510,10 @@
             <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <offset x="1.24683" y="-5.7859"/>
             <text><sym>metNote8thUp</sym> = <sym>metNote8thUp</sym></text>
             </Tempo>
           <StaffText>
-            <visible>0</visible>
             <offset x="7.52208" y="-5.60805"/>
             <text><font size="12"></font><b> précédente</b></text>
             </StaffText>
@@ -3821,19 +3821,17 @@
           <Tempo>
             <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
-            <visible>0</visible>
             <offset x="1.14851" y="-6.12202"/>
             <text><font size="12"></font><b>a Tempo </b></text>
             </Tempo>
           <StaffText>
-            <offset x="9.63033" y="-6.3515"/>
-            <text><sym>metNote8thUp</sym> = <sym>metNote8thUp</sym></text>
-            </StaffText>
-          <StaffText>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <offset x="9.02463" y="-5.8823"/>
             <text><b><font size="12"></font>          précédente</b></text>
+            </StaffText>
+          <StaffText>
+            <offset x="9.63033" y="-6.3515"/>
+            <text><sym>metNote8thUp</sym> = <sym>metNote8thUp</sym></text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -5588,6 +5586,11 @@
             <offset x="-0.217472" y="2.84759"/>
             <text><i>croisez</i></text>
             </StaffText>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <offset x="6.91697" y="3.01548"/>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -5599,11 +5602,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            <offset x="0.108736" y="3.34759"/>
-            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
