@@ -962,10 +962,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-0.345215" y="-1.12195"/>
-                  <o3 x="1.12195" y="-0.517822"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1165,11 +1161,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="1.23021" y="3.5"/>
-                <off2 x="-1.23021" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -1948,9 +1939,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>32nd</durationType>
@@ -3047,13 +3035,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.345215" y="0.604126"/>
-                  <o2 x="-3.36584" y="-2.93432"/>
-                  <o3 x="5.09192" y="-1.81238"/>
-                  <o4 x="0.0863037" y="0.431518"/>
-                  <autoplace>0</autoplace>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -3129,11 +3110,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.172607" y="0.517822"/>
-                  <o4 x="-0.863037" y="-6.30017"/>
-                  <offset x="-0.172607" y="10.529"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -3214,10 +3190,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.517822" y="-7.0769"/>
-                  <offset x="-0.431518" y="10.6154"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -3278,9 +3250,6 @@
             <durationType>32nd</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="0.517822" y="0"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3477,10 +3446,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.517822" y="-6.30017"/>
-                  <offset x="-0.431518" y="9.3208"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -3566,10 +3531,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.431518" y="-6.30017"/>
-                  <offset x="-0.604126" y="9.57971"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -3634,11 +3595,6 @@
             <durationType>32nd</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.258911" y="-0.431518"/>
-                  <o4 x="1.29456" y="0.431518"/>
-                  <offset x="-0.0863037" y="0"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3933,9 +3889,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -4853,11 +4806,6 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-0.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </Trill>
             <next>
               <location>
@@ -4896,11 +4844,6 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-0.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </Trill>
             <next>
               <location>
@@ -5143,17 +5086,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-0.0821034" y="-0.612467"/>
-                  <o3 x="0.186524" y="-0.357835"/>
-                  <o4 x="0.854363" y="-0.366155"/>
-                  <autoplace>0</autoplace>
-                  </SlurSegment>
-                <SlurSegment no="1">
-                  <o2 x="-0.543679" y="-1.73977"/>
-                  <o3 x="0.869887" y="-3.0446"/>
-                  <autoplace>0</autoplace>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -5338,11 +5270,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-3.26207" y="-2.93587"/>
-                  <o3 x="1.5223" y="-3.91449"/>
-                  <autoplace>0</autoplace>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -5660,11 +5587,6 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-0.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </Trill>
             <next>
               <location>
@@ -5700,11 +5622,6 @@
           <Spanner type="Trill">
             <Trill>
               <subtype>trill</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="0" y="-0.5"/>
-                <off2 x="0" y="0"/>
-                </Segment>
               </Trill>
             <next>
               <location>
@@ -7013,10 +6930,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-1.38086" y="-0.431518"/>
-                  <o4 x="-0.0863037" y="-0.604126"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -8423,10 +8336,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="13.5478" y="-3.90566"/>
-                  <offset x="0.122052" y="2.56309"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8436,10 +8345,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="3.90566"/>
-                  <o4 x="13.1816" y="-0.244104"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8624,11 +8529,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="1.20483" y="1.65664"/>
-                  <o4 x="12.9465" y="0.113867"/>
-                  <offset x="-0.4" y="0.6"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -8639,13 +8539,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="1.05251" y="3.20668"/>
-                  <o2 x="-0.822452" y="0.549847"/>
-                  <o3 x="-1.27426" y="-0.353773"/>
-                  <o4 x="12.7049" y="1.66678"/>
-                  <offset x="-0.4" y="0.3"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -10876,11 +10769,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o3 x="-2.06598" y="-3.91449"/>
-                  <o4 x="-0.543679" y="-3.26207"/>
-                  <offset x="0.108736" y="0.869887"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
