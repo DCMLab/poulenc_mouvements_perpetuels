@@ -10,4 +10,4 @@
 |03_alerte      |      56|   127|2.3.0   |Amelia Brey|HB       |
 
 
-*Overview table automatically updated using [ms3](https://johentsch.github.io/ms3/).*
+*Overview table automatically updated using [ms3](https://ms3.readthedocs.io/).*
