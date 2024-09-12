@@ -7,79 +7,23 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <lyricsMinDistance>0.25</lyricsMinDistance>
-      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
-      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
-      <lyricsOddFontSize>10</lyricsOddFontSize>
-      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
-      <lyricsEvenFontSize>10</lyricsEvenFontSize>
-      <hairpinFontFace>Edwin</hairpinFontFace>
-      <hairpinFontSize>10</hairpinFontSize>
-      <pedalFontFace>Edwin</pedalFontFace>
-      <harmonyPlay>0</harmonyPlay>
-      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
-      <chordSymbolAFontSize>11</chordSymbolAFontSize>
-      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
-      <chordSymbolBFontSize>11</chordSymbolBFontSize>
-      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
-      <ottavaFontFace>Edwin</ottavaFontFace>
-      <tupletFontFace>Edwin</tupletFontFace>
-      <tupletFontSize>9</tupletFontSize>
-      <defaultFontFace>Edwin</defaultFontFace>
-      <titleFontFace>Edwin</titleFontFace>
-      <titleFontSize>22</titleFontSize>
-      <subTitleFontFace>Edwin</subTitleFontFace>
-      <subTitleFontSize>16</subTitleFontSize>
-      <composerFontFace>Edwin</composerFontFace>
-      <composerFontSize>10</composerFontSize>
-      <lyricistFontFace>Edwin</lyricistFontFace>
-      <lyricistFontSize>10</lyricistFontSize>
-      <fingeringFontFace>Edwin</fingeringFontFace>
-      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
-      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
-      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
-      <stringNumberFontFace>Edwin</stringNumberFontFace>
-      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
-      <longInstrumentFontSize>10</longInstrumentFontSize>
-      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
-      <shortInstrumentFontSize>10</shortInstrumentFontSize>
-      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
-      <partInstrumentFontSize>14</partInstrumentFontSize>
-      <dynamicsFontFace>Edwin</dynamicsFontFace>
-      <dynamicsFontSize>11</dynamicsFontSize>
-      <expressionFontFace>Edwin</expressionFontFace>
-      <expressionFontSize>10</expressionFontSize>
-      <tempoFontFace>Edwin</tempoFontFace>
-      <metronomeFontFace>Edwin</metronomeFontFace>
-      <metronomeFontStyle>0</metronomeFontStyle>
-      <measureNumberFontFace>Edwin</measureNumberFontFace>
-      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
-      <measureNumberFontStyle>2</measureNumberFontStyle>
-      <translatorFontFace>Edwin</translatorFontFace>
-      <translatorFontSize>10</translatorFontSize>
-      <systemFontFace>Edwin</systemFontFace>
-      <staffFontFace>Edwin</staffFontFace>
-      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
-      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
-      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
-      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
-      <repeatLeftFontSize>18</repeatLeftFontSize>
-      <repeatRightFontFace>Edwin</repeatRightFontFace>
-      <repeatRightFontSize>11</repeatRightFontSize>
-      <frameFontFace>Edwin</frameFontFace>
-      <frameFontSize>10</frameFontSize>
-      <usePre_3_6_defaults>1</usePre_3_6_defaults>
-      <defaultsVersion>301</defaultsVersion>
-      <Spatium>1.76389</Spatium>
+      <pageWidth>8.5</pageWidth>
+      <pageHeight>11</pageHeight>
+      <pageEvenLeftMargin>0.822835</pageEvenLeftMargin>
+      <enableVerticalSpread>1</enableVerticalSpread>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q191408</metaTag>
     <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1919</metaTag>
-    <metaTag name="composed_start">1919</metaTag>
+    <metaTag name="compared_against">LATEST_VERSION</metaTag>
+    <metaTag name="composed_end">1918</metaTag>
+    <metaTag name="composed_source">https://imslp.org/wiki/Mouvements_perp%C3%A9tuels,_FP_14a_(Poulenc,_Francis)</metaTag>
+    <metaTag name="composed_start">1918</metaTag>
     <metaTag name="composer">Francis Poulenc</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2022-09-19</metaTag>
@@ -100,7 +44,7 @@
     <metaTag name="viaf">https://viaf.org/viaf/178209998/</metaTag>
     <metaTag name="wikidata">https://www.wikidata.org/wiki/Q3326873</metaTag>
     <metaTag name="workNumber">FP 14</metaTag>
-    <metaTag name="workTitle">Mouvements perpétuels</metaTag>
+    <metaTag name="workTitle">Trois mouvements perpétuels</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -166,11 +110,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>10</height>
+        <height>15.8953</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
+          <style>Title</style>
+          <text>Trois mouvements perpétuels, FP 14</text>
+          </Text>
+        <Text>
           <style>Subtitle</style>
-          <text>II.</text>
+          <text>2. Très modéré</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Francis Poulenc</text>
           </Text>
         </VBox>
       <Measure>
@@ -180,17 +132,21 @@
             <sigD>4</sigD>
             </TimeSig>
           <Tempo>
-            <tempo>1.5333300000000001</tempo>
+            <tempo>1.5333333333333332</tempo>
             <followText>1</followText>
-            <family>FreeSerif</family>
             <text><b>Très modéré (</b><font face="ScoreText"></font><b><font face="FreeSerif"></font> = 92)</b></text>
             </Tempo>
           <StaffText>
-            <autoplace>0</autoplace>
             <placement>below</placement>
-            <offset x="-0.180937" y="4.83249"/>
+            <minDistance>-999</minDistance>
+            <offset x="0" y="4.80613"/>
             <text><i>indifférent</i></text>
             </StaffText>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <offset x="-0.236509" y="6.35768"/>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -222,11 +178,6 @@
               <tpc>13</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <offset x="-1.28684" y="4.79601"/>
-            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Note>
@@ -266,9 +217,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -374,8 +322,6 @@
           <Dynamic>
             <subtype>other-dynamics</subtype>
             <velocity>80</velocity>
-            <family>FreeSerif</family>
-            <size>12</size>
             <offset x="2.2" y="4"/>
             <text><i></i><font size="10"></font><font face="ScoreText"></font></text>
             </Dynamic>
@@ -383,9 +329,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o3 x="0.121563" y="-1.33719"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -917,7 +860,7 @@
           <Dynamic>
             <subtype>mf</subtype>
             <velocity>80</velocity>
-            <offset x="1.915" y="3.88031"/>
+            <offset x="0.421307" y="4.25373"/>
             </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
@@ -1226,6 +1169,11 @@
             <offset x="-0.119688" y="7.81436"/>
             <text><i>clair mais</i></text>
             </StaffText>
+          <Dynamic>
+            <subtype>p</subtype>
+            <velocity>49</velocity>
+            <offset x="10.2158" y="3.64944"/>
+            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -1259,11 +1207,6 @@
               <tpc>18</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>p</subtype>
-            <velocity>49</velocity>
-            <offset x="-1.33374" y="3.53615"/>
-            </Dynamic>
           <Chord>
             <durationType>eighth</durationType>
             <Spanner type="Slur">
@@ -1621,9 +1564,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="7.29376" y="0.850938"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -1853,9 +1793,6 @@
         </Measure>
       <Measure>
         <endRepeat>2</endRepeat>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>eighth</durationType>
@@ -2189,8 +2126,8 @@
             </Dynamic>
           <Beam>
             <Fragment>
-              <y1>-2.40881</y1>
-              <y2>-3.9224</y2>
+              <y1>-2.42793</y1>
+              <y2>-3.95353</y2>
               </Fragment>
             </Beam>
           <Chord>
@@ -3485,12 +3422,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-0.598437" y="0.957499"/>
-                  <o4 x="-0.239375" y="1.19687"/>
-                  <autoplace>0</autoplace>
-                  <offset x="0.239375" y="-1.07719"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3985,7 +3916,7 @@
             <offset x="-2.55282" y="-5.10563"/>
             </Breath>
           <Chord>
-            <offset x="0.6" y="0"/>
+            <offset x="0.604762" y="0"/>
             <BeamMode>mid</BeamMode>
             <staffMove>-1</staffMove>
             <durationType>32nd</durationType>
