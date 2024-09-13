@@ -14,8 +14,7 @@ For information on how to obtain and use the dataset, please refer to [this docu
 
 # Francis Poulenc – Mouvements Perpetuels
 
-
-## Cite as
+This is an early work by the prodigy Poulenc, then 19 years old. The composer and his five colleagues in the Groupe des Six had briefly come under the influence of Erik Satie, whose dry musical sarcasm appears to have been an influence on this work: each of the three movements ends in a non sequitur musical punchline, and despite being titled 'Perpetual', the entire set takes only about five minutes to perform. It is unclear whether this irony or the indisputable lyrical beauty of the music has played a bigger part in making this set a fixture in the 20th-century piano repertoire. Though largely diatonic, Poulenc's language is by no means retrograde, so adapting the annotation standard to this music is both straightforward and illuminating, showing conventional harmonic triads behaving in distinctively modern ways.
 
 ## Version history
 
