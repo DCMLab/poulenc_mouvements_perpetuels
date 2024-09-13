@@ -7,104 +7,22 @@
     <currentLayer>0</currentLayer>
     <Division>480</Division>
     <Style>
-      <pageWidth>8.26538</pageWidth>
-      <pageHeight>11.696</pageHeight>
-      <pagePrintableWidth>7.47688</pagePrintableWidth>
-      <pageEvenLeftMargin>0.394248</pageEvenLeftMargin>
-      <pageOddLeftMargin>0.394248</pageOddLeftMargin>
-      <pageEvenTopMargin>0.394248</pageEvenTopMargin>
-      <pageEvenBottomMargin>0.788496</pageEvenBottomMargin>
-      <pageOddTopMargin>0.394248</pageOddTopMargin>
-      <pageOddBottomMargin>0.788496</pageOddBottomMargin>
-      <staffDistance>8</staffDistance>
-      <minSystemDistance>10.3</minSystemDistance>
-      <lyricsMinDistance>0.25</lyricsMinDistance>
-      <lyricsDashYposRatio>0.6</lyricsDashYposRatio>
-      <lyricsOddFontFace>Edwin</lyricsOddFontFace>
-      <lyricsOddFontSize>10</lyricsOddFontSize>
-      <lyricsEvenFontFace>Edwin</lyricsEvenFontFace>
-      <lyricsEvenFontSize>10</lyricsEvenFontSize>
-      <repeatBarTips>1</repeatBarTips>
-      <startBarlineSingle>1</startBarlineSingle>
-      <hairpinFontFace>Edwin</hairpinFontFace>
-      <hairpinFontSize>10</hairpinFontSize>
-      <pedalFontFace>Edwin</pedalFontFace>
-      <harmonyPlay>0</harmonyPlay>
-      <chordSymbolAFontFace>Edwin</chordSymbolAFontFace>
-      <chordSymbolAFontSize>11</chordSymbolAFontSize>
-      <chordSymbolBFontFace>Edwin</chordSymbolBFontFace>
-      <chordSymbolBFontSize>11</chordSymbolBFontSize>
-      <nashvilleNumberFontFace>Edwin</nashvilleNumberFontFace>
-      <ottavaFontFace>Edwin</ottavaFontFace>
-      <tupletFontFace>Edwin</tupletFontFace>
-      <tupletFontSize>9</tupletFontSize>
-      <defaultFontFace>Edwin</defaultFontFace>
-      <titleFontFace>Edwin</titleFontFace>
-      <titleFontSize>22</titleFontSize>
-      <subTitleFontFace>Edwin</subTitleFontFace>
-      <subTitleFontSize>16</subTitleFontSize>
-      <composerFontFace>Edwin</composerFontFace>
-      <composerFontSize>10</composerFontSize>
-      <lyricistFontFace>Edwin</lyricistFontFace>
-      <lyricistFontSize>10</lyricistFontSize>
-      <fingeringFontFace>Edwin</fingeringFontFace>
-      <fingeringFontSize>10</fingeringFontSize>
-      <lhGuitarFingeringFontFace>Edwin</lhGuitarFingeringFontFace>
-      <lhGuitarFingeringFontSize>10</lhGuitarFingeringFontSize>
-      <rhGuitarFingeringFontFace>Edwin</rhGuitarFingeringFontFace>
-      <rhGuitarFingeringFontSize>10</rhGuitarFingeringFontSize>
-      <rhGuitarFingeringFontStyle>2</rhGuitarFingeringFontStyle>
-      <stringNumberFontFace>Edwin</stringNumberFontFace>
-      <stringNumberFontSize>10</stringNumberFontSize>
-      <longInstrumentFontFace>Edwin</longInstrumentFontFace>
-      <longInstrumentFontSize>10</longInstrumentFontSize>
-      <shortInstrumentFontFace>Edwin</shortInstrumentFontFace>
-      <shortInstrumentFontSize>10</shortInstrumentFontSize>
-      <partInstrumentFontFace>Edwin</partInstrumentFontFace>
-      <partInstrumentFontSize>14</partInstrumentFontSize>
-      <dynamicsFontFace>Edwin</dynamicsFontFace>
-      <dynamicsFontSize>11</dynamicsFontSize>
-      <expressionFontFace>Edwin</expressionFontFace>
-      <expressionFontSize>10</expressionFontSize>
-      <tempoFontFace>Edwin</tempoFontFace>
-      <tempoFontSize>10</tempoFontSize>
-      <metronomeFontFace>Edwin</metronomeFontFace>
-      <metronomeFontSize>10</metronomeFontSize>
-      <metronomeFontStyle>0</metronomeFontStyle>
-      <measureNumberFontFace>Edwin</measureNumberFontFace>
-      <measureNumberFontSize>10</measureNumberFontSize>
-      <measureNumberFontSpatiumDependent>0</measureNumberFontSpatiumDependent>
-      <measureNumberFontStyle>2</measureNumberFontStyle>
-      <translatorFontFace>Edwin</translatorFontFace>
-      <translatorFontSize>10</translatorFontSize>
-      <systemFontFace>Edwin</systemFontFace>
-      <staffFontFace>Edwin</staffFontFace>
-      <rehearsalMarkFontFace>Edwin</rehearsalMarkFontFace>
-      <rehearsalMarkFontSize>10</rehearsalMarkFontSize>
-      <rehearsalMarkFrameWidth>0.16</rehearsalMarkFrameWidth>
-      <rehearsalMarkFrameRound>0</rehearsalMarkFrameRound>
-      <repeatLeftFontFace>Edwin</repeatLeftFontFace>
-      <repeatLeftFontSize>18</repeatLeftFontSize>
-      <repeatRightFontFace>Edwin</repeatRightFontFace>
-      <repeatRightFontSize>11</repeatRightFontSize>
-      <frameFontFace>Edwin</frameFontFace>
-      <frameFontSize>10</frameFontSize>
-      <glissandoFontSize>10</glissandoFontSize>
-      <bendFontSize>10</bendFontSize>
-      <headerFontSize>10</headerFontSize>
-      <footerFontSize>10</footerFontSize>
-      <usePre_3_6_defaults>1</usePre_3_6_defaults>
-      <defaultsVersion>301</defaultsVersion>
-      <Spatium>1.75682</Spatium>
+      <pageWidth>8.5</pageWidth>
+      <pageHeight>11</pageHeight>
+      <pageEvenLeftMargin>0.822835</pageEvenLeftMargin>
+      <enableVerticalSpread>1</enableVerticalSpread>
+      <Spatium>1.75</Spatium>
       </Style>
     <showInvisible>1</showInvisible>
     <showUnprintable>1</showUnprintable>
     <showFrames>1</showFrames>
     <showMargins>0</showMargins>
+    <metaTag name="P86 (composer)">Q191408</metaTag>
     <metaTag name="annotators">Amelia Brey</metaTag>
     <metaTag name="arranger"></metaTag>
-    <metaTag name="composed_end">1919</metaTag>
-    <metaTag name="composed_start">1919</metaTag>
+    <metaTag name="composed_end">1918</metaTag>
+    <metaTag name="composed_source">https://imslp.org/wiki/Mouvements_perp%C3%A9tuels,_FP_14a_(Poulenc,_Francis)</metaTag>
+    <metaTag name="composed_start">1918</metaTag>
     <metaTag name="composer">Francis Poulenc</metaTag>
     <metaTag name="copyright"></metaTag>
     <metaTag name="creationDate">2022-09-23</metaTag>
@@ -126,7 +44,7 @@
     <metaTag name="viaf">https://viaf.org/viaf/178209998/</metaTag>
     <metaTag name="wikidata">https://www.wikidata.org/wiki/Q3326873</metaTag>
     <metaTag name="workNumber">FP 14</metaTag>
-    <metaTag name="workTitle">Mouvements perpétuels</metaTag>
+    <metaTag name="workTitle">Trois mouvements perpétuels</metaTag>
     <Part>
       <Staff id="1">
         <StaffType group="pitched">
@@ -205,12 +123,19 @@
       </Part>
     <Staff id="1">
       <VBox>
-        <height>3.5</height>
+        <height>14.8084</height>
         <boxAutoSize>0</boxAutoSize>
         <Text>
           <style>Title</style>
-          <size>24</size>
-          <text><font size="22"></font>III.</text>
+          <text>Trois mouvements perpétuels, FP 14</text>
+          </Text>
+        <Text>
+          <style>Subtitle</style>
+          <text>3. Alerte</text>
+          </Text>
+        <Text>
+          <style>Composer</style>
+          <text>Francis Poulenc</text>
           </Text>
         </VBox>
       <Measure len="1/4">
@@ -227,13 +152,16 @@
           <Tempo>
             <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
-            <visible>0</visible>
             <offset x="0.415103" y="-3.38398"/>
             <text><font size="12"></font><b>Alerte </b></text>
             </Tempo>
           <Rest>
             <durationType>16th</durationType>
             </Rest>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            </Dynamic>
           <Beam>
             <StemDirection>down</StemDirection>
             </Beam>
@@ -261,7 +189,6 @@
           <Tempo>
             <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
-            <visible>0</visible>
             <text><b>(</b><font face="ScoreText"></font><b><font face="Edwin"></font> = 138)</b></text>
             </Tempo>
           <Chord>
@@ -1029,10 +956,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-0.345215" y="-1.12195"/>
-                  <o3 x="1.12195" y="-0.517822"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -1232,11 +1155,6 @@
           <Spanner type="HairPin">
             <HairPin>
               <subtype>1</subtype>
-              <Segment>
-                <subtype>0</subtype>
-                <offset x="1.23021" y="3.5"/>
-                <off2 x="-1.23021" y="0"/>
-                </Segment>
               </HairPin>
             <next>
               <location>
@@ -1499,12 +1417,10 @@
             <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <offset x="1.24683" y="-5.7859"/>
             <text><sym>metNote8thUp</sym> = <sym>metNote8thUp</sym></text>
             </Tempo>
           <StaffText>
-            <visible>0</visible>
             <offset x="7.52208" y="-5.60805"/>
             <text><font size="12"></font><b> précédente</b></text>
             </StaffText>
@@ -2017,9 +1933,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Chord>
             <durationType>32nd</durationType>
@@ -2520,9 +2433,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>line</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>down</StemDirection>
@@ -3117,10 +3027,10 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="0.345215" y="0.604126"/>
-                  <o2 x="-3.36584" y="-2.93432"/>
-                  <o3 x="5.09192" y="-1.81238"/>
-                  <o4 x="0.0863037" y="0.431518"/>
+                  <o1 x="0.34656" y="0.60648"/>
+                  <o2 x="-3.37896" y="-2.94576"/>
+                  <o3 x="5.11176" y="-1.81944"/>
+                  <o4 x="0.08664" y="0.4332"/>
                   <autoplace>0</autoplace>
                   </SlurSegment>
                 <up>up</up>
@@ -3199,9 +3109,9 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o1 x="-0.172607" y="0.517822"/>
-                  <o4 x="-0.863037" y="-6.30017"/>
-                  <offset x="-0.172607" y="10.529"/>
+                  <o1 x="-0.17328" y="0.51984"/>
+                  <o4 x="-0.8664" y="-6.32472"/>
+                  <offset x="-0.17328" y="10.57"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -3284,8 +3194,8 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="-0.517822" y="-7.0769"/>
-                  <offset x="-0.431518" y="10.6154"/>
+                  <o4 x="-0.51984" y="-7.10448"/>
+                  <offset x="-0.4332" y="10.6568"/>
                   </SlurSegment>
                 <up>down</up>
                 </Slur>
@@ -3348,7 +3258,7 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o4 x="0.517822" y="0"/>
+                  <o4 x="0.51984" y="0"/>
                   </SlurSegment>
                 </Slur>
               <next>
@@ -3546,10 +3456,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.517822" y="-6.30017"/>
-                  <offset x="-0.431518" y="9.3208"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -3635,10 +3541,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="-0.431518" y="-6.30017"/>
-                  <offset x="-0.604126" y="9.57971"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -3703,11 +3605,6 @@
             <durationType>32nd</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0.258911" y="-0.431518"/>
-                  <o4 x="1.29456" y="0.431518"/>
-                  <offset x="-0.0863037" y="0"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -3812,19 +3709,17 @@
           <Tempo>
             <tempo>2.2999999999999998</tempo>
             <followText>1</followText>
-            <visible>0</visible>
             <offset x="1.14851" y="-6.12202"/>
             <text><font size="12"></font><b>a Tempo </b></text>
             </Tempo>
           <StaffText>
-            <offset x="9.63033" y="-6.3515"/>
-            <text><sym>metNote8thUp</sym> = <sym>metNote8thUp</sym></text>
-            </StaffText>
-          <StaffText>
             <autoplace>0</autoplace>
-            <visible>0</visible>
             <offset x="9.02463" y="-5.8823"/>
             <text><b><font size="12"></font>          précédente</b></text>
+            </StaffText>
+          <StaffText>
+            <offset x="9.63033" y="-6.3515"/>
+            <text><sym>metNote8thUp</sym> = <sym>metNote8thUp</sym></text>
             </StaffText>
           <Chord>
             <durationType>quarter</durationType>
@@ -4004,9 +3899,6 @@
           </voice>
         </Measure>
       <Measure>
-        <LayoutBreak>
-          <subtype>page</subtype>
-          </LayoutBreak>
         <voice>
           <Beam>
             <StemDirection>up</StemDirection>
@@ -5205,14 +5097,14 @@
             <Spanner type="Slur">
               <Slur>
                 <SlurSegment no="0">
-                  <o2 x="-0.0821034" y="-0.612467"/>
-                  <o3 x="0.186524" y="-0.357835"/>
-                  <o4 x="0.854363" y="-0.366155"/>
+                  <o2 x="-0.0824234" y="-0.614854"/>
+                  <o3 x="0.187251" y="-0.35923"/>
+                  <o4 x="0.857693" y="-0.367582"/>
                   <autoplace>0</autoplace>
                   </SlurSegment>
                 <SlurSegment no="1">
-                  <o2 x="-0.543679" y="-1.73977"/>
-                  <o3 x="0.869887" y="-3.0446"/>
+                  <o2 x="-0.545798" y="-1.74655"/>
+                  <o3 x="0.873277" y="-3.05647"/>
                   <autoplace>0</autoplace>
                   </SlurSegment>
                 </Slur>
@@ -5399,11 +5291,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o2 x="-3.26207" y="-2.93587"/>
-                  <o3 x="1.5223" y="-3.91449"/>
-                  <autoplace>0</autoplace>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -5579,6 +5466,11 @@
             <offset x="-0.217472" y="2.84759"/>
             <text><i>croisez</i></text>
             </StaffText>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <offset x="6.91697" y="3.01548"/>
+            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -5590,11 +5482,6 @@
               <tpc>15</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            <offset x="0.108736" y="3.34759"/>
-            </Dynamic>
           <Chord>
             <durationType>quarter</durationType>
             <Articulation>
@@ -7064,10 +6951,6 @@
             <durationType>quarter</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="-1.38086" y="-0.431518"/>
-                  <o4 x="-0.0863037" y="-0.604126"/>
-                  </SlurSegment>
                 <up>down</up>
                 </Slur>
               <next>
@@ -8474,10 +8357,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o4 x="13.5478" y="-3.90566"/>
-                  <offset x="0.122052" y="2.56309"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8487,10 +8366,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="0" y="3.90566"/>
-                  <o4 x="13.1816" y="-0.244104"/>
-                  </SlurSegment>
                 </Slur>
               <next>
                 <location>
@@ -8675,11 +8550,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="1.20483" y="1.65664"/>
-                  <o4 x="12.9465" y="0.113867"/>
-                  <offset x="-0.4" y="0.6"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -8690,13 +8560,6 @@
               </Spanner>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o1 x="1.05251" y="3.20668"/>
-                  <o2 x="-0.822452" y="0.549847"/>
-                  <o3 x="-1.27426" y="-0.353773"/>
-                  <o4 x="12.7049" y="1.66678"/>
-                  <offset x="-0.4" y="0.3"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>
@@ -10927,11 +10790,6 @@
             <durationType>eighth</durationType>
             <Spanner type="Slur">
               <Slur>
-                <SlurSegment no="0">
-                  <o3 x="-2.06598" y="-3.91449"/>
-                  <o4 x="-0.543679" y="-3.26207"/>
-                  <offset x="0.108736" y="0.869887"/>
-                  </SlurSegment>
                 <up>up</up>
                 </Slur>
               <next>

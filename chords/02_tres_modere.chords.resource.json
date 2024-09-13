@@ -1,7 +1,7 @@
 {
-  "name": "01_assez_modere.harmonies",
+  "name": "02_tres_modere.chords",
   "type": "table",
-  "path": "01_assez_modere.harmonies.tsv",
+  "path": "02_tres_modere.chords.tsv",
   "scheme": "file",
   "format": "tsv",
   "mediatype": "text/tsv",
@@ -11,7 +11,7 @@
       "delimiter": "\t"
     }
   },
-  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/harmonies/3xXaI59c2f9xGQ.schema.yaml",
+  "schema": "https://raw.githubusercontent.com/DCMLab/frictionless_schemas/main/chords/5s6ZBYeUYVIl0w.schema.yaml",
   "creator": {
     "@context": "https://schema.org/",
     "@type": "SoftwareApplication",
