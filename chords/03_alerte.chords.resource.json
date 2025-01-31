@@ -168,22 +168,22 @@
         "description": "IDs of active slurs that a chord falls under, as a tuple of integers."
       },
       {
-        "name": "Trill:trill",
-        "type": "string"
-      },
-      {
         "name": "crescendo_hairpin",
         "type": "string"
       },
       {
         "name": "decrescendo_hairpin",
         "type": "string"
+      },
+      {
+        "name": "Trill:trill",
+        "type": "string"
       }
     ],
     "facet": "chords",
-    "identifier": "GPnug5qAqct16Q",
-    "filepath": "chords/GPnug5qAqct16Q.schema.yaml",
-    "used_in": "n09op59-3_01"
+    "identifier": "BdnY9m-dX2NkjQ",
+    "filepath": "chords/BdnY9m-dX2NkjQ.schema.yaml",
+    "used_in": "03_alerte"
   },
   "creator": {
     "@context": "https://schema.org/",
@@ -195,8 +195,8 @@
       "name": "Johannes Hentschel",
       "@id": "https://orcid.org/0000-0002-1986-9545"
     },
-    "softwareVersion": "2.5.2"
+    "softwareVersion": "2.5.3"
   },
-  "git_revision": "95f1de562c6a39902220f77cb8a50a19a8d4229f",
-  "git_tag": "v2.0-12-g95f1de5"
+  "git_revision": "089603fe290ecea9a5fb51caa51014dad6e062bb",
+  "git_tag": "v2.1-3-g089603f"
 }
