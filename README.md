@@ -12,6 +12,11 @@ and serves as welcome page for both
 
 For information on how to obtain and use the dataset, please refer to [this documentation page](https://dcmlab.github.io/poulenc_mouvements_perpetuels/introduction).
 
+When you use (parts of) this dataset in your work, please read and cite the accompanying data report:
+
+_Hentschel, J., Rammos, Y., Neuwirth, M., & Rohrmeier, M. (2025). A corpus and a modular infrastructure for the 
+empirical study of (an)notated music. Scientific Data, 12(1), 685. https://doi.org/10.1038/s41597-025-04976-z_
+
 # Francis Poulenc – Mouvements Perpetuels (A corpus of annotated scores)
 
 This is an early work by the prodigy Poulenc, then 19 years old. The composer and his five colleagues in the Groupe des
@@ -87,7 +92,7 @@ Please [create an issue](https://github.com/DCMLab/poulenc_mouvements_perpetuels
 
 ## Cite as
 
-> Johannes Hentschel, Yannis Rammos, Markus Neuwirth, & Martin Rohrmeier. (2025). Francis Poulenc – Mouvements Perpetuels (A corpus of annotated scores) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.14997053
+> Hentschel, J., Rammos, Y., Neuwirth, M., & Rohrmeier, M. (2025). A corpus and a modular infrastructure for the empirical study of (an)notated music. Scientific Data, 12(1), 685. https://doi.org/10.1038/s41597-025-04976-z
 
 ## License
 
